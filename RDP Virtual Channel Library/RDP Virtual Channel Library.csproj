@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard1.5;net45;net462</TargetFrameworks>
+    <RootNamespace>RDP_Virtual_Channel_Library</RootNamespace>
+    <PackageId>FieldEffect.VCL</PackageId>
+    <Authors>Steve Russo</Authors>
+    <Company>Field Effect, LLC</Company>
+    <Version>1.0.1</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Virtual channel library for building RDP plugins in .NET</Description>
+  </PropertyGroup>
+
+</Project>

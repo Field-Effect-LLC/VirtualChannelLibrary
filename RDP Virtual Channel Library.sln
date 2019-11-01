@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDP Virtual Channel Library", "RDP Virtual Channel Library\RDP Virtual Channel Library.csproj", "{399726F8-0EB1-4B44-9E73-F6CA1756B706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399726F8-0EB1-4B44-9E73-F6CA1756B706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399726F8-0EB1-4B44-9E73-F6CA1756B706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399726F8-0EB1-4B44-9E73-F6CA1756B706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399726F8-0EB1-4B44-9E73-F6CA1756B706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F270227E-8603-43E6-8244-C71D692A407A}
+	EndGlobalSection
+EndGlobal
